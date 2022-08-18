@@ -10,7 +10,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class Task1 {
-    public static final Logger LOGGER = LogManager.getLogger(Main.class);
+    public static final Logger LOGGER = LogManager.getLogger(Task1.class);
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         List<String> lists = new ArrayList<>();
